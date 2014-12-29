@@ -1,3 +1,3 @@
 nodejsexample
 =============
-Following Node Beginner tutorial.
+Following the Node Beginner tutorial.
