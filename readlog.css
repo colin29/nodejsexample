@@ -1,0 +1,49 @@
+#readTable>tbody {
+	text-color:#FFAAAA;
+}
+#readTable{
+	border: 3px solid;
+	border-radius: 4px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+.charCountCell{
+	text-align: right;
+}
+
+tr{
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #D3C6F5;
+}
+th{
+	border: 2px solid;
+	padding: 3px;
+}
+#readTable td{
+	border: 2px solid;
+	border-color:black;
+	margin: 0px;
+	padding: 3px;
+	background-color: #CCDECA;
+}
+
+span{
+	font-weight: bold;
+}
+
+.readTableButton{
+	float: right;
+	border:2px solid;
+	margin-left: 10px;
+}
+
+.charCountEditor{
+	width: 80px;
+}
+
+.errorMessage{
+	color: red;
+}
